@@ -6,7 +6,7 @@ This project deals with the Garment Employee Producitivity Dataset.
 
 Analysis has been conducted primarily using the Alteryx platform. RStudio was also implemented during the preliminary analysis.
 
-Visualisations created using MS Tableau.
+Visualisations found within the report created using MS Tableau.
 
 This project was completed by two Individual Baldip Singh and Partner.
 
