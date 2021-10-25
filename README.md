@@ -4,7 +4,9 @@ Final project for the course Data Analytics and Intelligence
 
 This project deals with the Garment Employee Producitivity Dataset.
 
-Analysis has been conducted primarily using the Alteryx platform. RStudio was also implemented during the preliminary analysis.
+Analysis has been conducted primarily using the Alteryx platform (workflows shown in report). 
+
+RStudio was also implemented during the preliminary analysis.
 
 Visualisations found within the report created using MS Tableau.
 
