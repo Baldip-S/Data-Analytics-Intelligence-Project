@@ -2,7 +2,7 @@
 Final project for the course Data Analytics and Intelligence 
 
 
-This project deals with the Garment Employee Producitivity Dataset.
+This project deals with the UCI - Garment Employee Producitivity Dataset.
 
 Analysis has been conducted primarily using the Alteryx platform (workflows shown in report). 
 
